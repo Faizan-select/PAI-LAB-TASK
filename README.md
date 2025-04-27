@@ -16,3 +16,6 @@ Task: Implement all the topics/functions of OpenCV, in a notebook file (ipynb fi
 
 Lab 7 
 Task: Create any of the following, can use Free API & develop its "Flask -> HTM:" based front-end
+
+Lab 9 
+Spam or ham detection 
